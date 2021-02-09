@@ -4,4 +4,4 @@ R-scripts and dataset for the IRTree based fuzzy rating scale (fIRTree). This is
 
 eusflat21: It contains scripts and data used for the EUSFLAT21 paper contribution https://arxiv.org/abs/2102.02025
 
-paper: It containts scripts and data related to the research paper .. (to appear)
+paper: It containts scripts and data related to the research paper https://arxiv.org/abs/2102.04273
